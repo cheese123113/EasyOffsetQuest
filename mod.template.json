@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Lauriethefish/QuestPatcher.QMod/main/QuestPatcher.QMod/Resources/qmod.schema.json",
+  "_QPVersion": "0.1.1",
+  "name": "${mod_name}",
+  "id": "${mod_id}",
+  "author": "Reezonate (Quest port)",
+  "version": "${version}",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "1.40.8_7379",
+  "description": "Easy controller offset adjustment tool. Quest port of EasyOffset by Reezonate.",
+  "dependencies": [],
+  "modFiles": ["${binary}"],
+  "lateModFiles": [],
+  "libraryFiles": [],
+  "fileCopies": []
+}
